@@ -1,0 +1,72 @@
+
+    p{
+        /* width: 500px;  */
+         color:red; 
+       /* border: 1px solid black;  */
+    }
+    li{
+
+        color: chartreuse;
+
+    }
+    #p_id{
+
+    color: darkblue;
+
+    }
+
+    .ol1{
+        color: violet;
+        size: 100px;
+
+    }
+
+    #tupian_id1{
+
+        width: 75px;
+
+    }
+
+    .tupian{
+
+        width: 30px;
+    }
+
+    /* a:hover{
+
+        width: 500px;
+
+    }  */
+
+
+    /* img[src]{
+        width: 50px;
+    } */
+ 
+html{
+   background-color: bisque;
+   text-shadow: coral;
+} 
+h1{
+
+    text-align: center;
+
+}
+
+p, li {
+    font-size: 16px;
+    /* line-height 后而可以跟不同的参数，如果是数字，就是当前字体大小乘上数字 */    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: coral;
+    padding: 0 20px 20px 20px; 
+    border: 1px solid #5e91b3;
+  }
+  /* img {
+    display: block;
+    margin: 0 auto;
+  } */
